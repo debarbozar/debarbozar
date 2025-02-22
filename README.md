@@ -1,6 +1,6 @@
 # Olá, sou a Débora 👋
 
-Sou **DevOps Júnior** focada em automação de processos, infraestrutura como código e otimização de pipelines. Tenho experiência trabalhando com tecnologias modernas, como Python, Docker, Terraform e CI/CD. Busco sempre melhorar meus conhecimentos e contribuir para o crescimento de equipes de desenvolvimento, automatizando processos e garantindo a entrega contínua e eficiente de software.
+Sou **DevOps Júnior** focada em automação de processos, infraestrutura como código e otimização de pipelines. Tenho experiência trabalhando com tecnologias, como Python, Docker,SonarQube,Gitlab,Pipelines, Terraform e CI/CD. Busco sempre melhorar meus conhecimentos e contribuir para o crescimento de equipes de desenvolvimento, automatizando processos e garantindo a entrega contínua e eficiente de software.
 
 ## 🚀 Minhas Skills
 
